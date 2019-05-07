@@ -1,0 +1,2 @@
+# leetcode
+Mini hobby
