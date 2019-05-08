@@ -12,7 +12,7 @@ def ss(lst: Iterable[Any],
     found = False
 
     for item in lst:
-        if item is search:
+        if item == search:
             found = True
             break
 
